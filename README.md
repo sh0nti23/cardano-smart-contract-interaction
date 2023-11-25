@@ -1,4 +1,4 @@
-# cardano-smart-contract-interaction
+# cardano-smart-contract-interaction 
 The cardano-smart-contract-interaction script streamlines interactions with smart contracts on the Cardano blockchain, offering a practical tool for executing custom transactions and querying contract data.
 Utilizing the Cardano-CLI and Cardano-Wallet, this script enables users to deploy smart contracts, submit transactions, and query contract information. It serves as a versatile foundation for developers and enthusiasts engaging with Cardano smart contracts.
 
