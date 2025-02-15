@@ -75,4 +75,4 @@ query_contract_info
 
 This script simplifies smart contract interactions on the Cardano blockchain using Cardano-CLI and Cardano-Wallet. Users can deploy smart contracts, submit transactions, and query contract information, making it a practical tool for developers and enthusiasts engaging with Cardano smart contracts.
 
-cardano-smart-contract-interaction
+cardano-smart-contract-interaction56
